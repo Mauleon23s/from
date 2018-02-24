@@ -10,3 +10,6 @@ var_dump($b);
 unset($c); // Ahora isset($c) = false;
 var_dump($c);
 ?>
+
+
+//unsset($dato)----------elimina el dato
